@@ -1,2 +1,2 @@
-# real-time-communication
-A Chat and Video Conferencing Application
+# Event Management System
+Manage Upcoming Events
